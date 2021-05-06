@@ -1,2 +1,2 @@
 # company
-<a href="yotube.com target=_blank">456</a>
+<a href="youtube.com target=_blank">456</a>
